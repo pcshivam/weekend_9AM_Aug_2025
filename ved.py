@@ -1,0 +1,1 @@
+print("Thia is ved")
